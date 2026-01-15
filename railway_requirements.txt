@@ -1,0 +1,15 @@
+# Core AI & Video
+google-generativeai==0.3.2
+edge-tts==6.1.9
+moviepy==1.0.3
+Pillow==10.1.0
+requests==2.31.0
+
+# Telegram Bot
+python-telegram-bot==20.7
+
+# Environment
+python-dotenv==1.0.0
+
+# Utilities
+aiohttp==3.9.1
